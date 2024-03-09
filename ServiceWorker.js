@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Space-Miners-1.0";
 const contentToCache = [
-    "Build/Space-Miners.loader.js",
-    "Build/Space-Miners.framework.js",
-    "Build/Space-Miners.data",
-    "Build/Space-Miners.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
